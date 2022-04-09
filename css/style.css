@@ -1,0 +1,29 @@
+.contani{
+	background-color: gray;
+	text-align: right;
+	color: white;
+	border: 1px solid black;
+	height: 120px;
+}
+.contani2{
+	background-color: lightgray;
+	
+}
+.col{
+	background-color:lightgray;
+
+	
+	text-align: center;
+}
+.col1{
+	background-color: lightgray;
+	text-align: center;
+}
+.roworg{
+	background-color: orange;
+	color: white;
+}
+.coq{
+	border: 1px solid black;
+
+}
